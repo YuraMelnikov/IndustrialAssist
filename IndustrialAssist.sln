@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAssist.Api", "IndustrialAssist.Api\IndustrialAssist.Api.csproj", "{349FB46D-3677-4B52-A5B7-F110AD2943EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAssist.Application", "IndustrialAssist.Application\IndustrialAssist.Application.csproj", "{762E6CA4-F20A-4B2A-A45F-07B1950A5D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAssist.Contracts", "IndustrialAssist.Contracts\IndustrialAssist.Contracts.csproj", "{3CB9793C-C9EB-444E-B3B1-6D8C8041F36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAssist.Domain", "IndustrialAssist.Domain\IndustrialAssist.Domain.csproj", "{D2ABA068-257A-4BBF-8801-722FBD8B6434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAssist.Infrastructure", "IndustrialAssist.Infrastructure\IndustrialAssist.Infrastructure.csproj", "{EF468098-837D-4CC5-8E86-39D8489D8E50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{8C64431A-4436-4530-807B-D471EEE49DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349FB46D-3677-4B52-A5B7-F110AD2943EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349FB46D-3677-4B52-A5B7-F110AD2943EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349FB46D-3677-4B52-A5B7-F110AD2943EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349FB46D-3677-4B52-A5B7-F110AD2943EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762E6CA4-F20A-4B2A-A45F-07B1950A5D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762E6CA4-F20A-4B2A-A45F-07B1950A5D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762E6CA4-F20A-4B2A-A45F-07B1950A5D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762E6CA4-F20A-4B2A-A45F-07B1950A5D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB9793C-C9EB-444E-B3B1-6D8C8041F36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB9793C-C9EB-444E-B3B1-6D8C8041F36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB9793C-C9EB-444E-B3B1-6D8C8041F36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB9793C-C9EB-444E-B3B1-6D8C8041F36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2ABA068-257A-4BBF-8801-722FBD8B6434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2ABA068-257A-4BBF-8801-722FBD8B6434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2ABA068-257A-4BBF-8801-722FBD8B6434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2ABA068-257A-4BBF-8801-722FBD8B6434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF468098-837D-4CC5-8E86-39D8489D8E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF468098-837D-4CC5-8E86-39D8489D8E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF468098-837D-4CC5-8E86-39D8489D8E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF468098-837D-4CC5-8E86-39D8489D8E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C6AD4E-880B-4DD4-947B-4B2C9160D649}
+	EndGlobalSection
+EndGlobal
